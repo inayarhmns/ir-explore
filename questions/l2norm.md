@@ -1,4 +1,3 @@
-Sure! Let’s break down what the **L2 norm** (or Euclidean norm) is and how it works. 
 
 ### **What is L2 Norm?**
 The **L2 norm**, also known as the **Euclidean norm**, is a way of measuring the **length** or **magnitude** of a vector in Euclidean space. It's essentially the straight-line distance from the origin to a point in space, which in this case is defined by the vector.
