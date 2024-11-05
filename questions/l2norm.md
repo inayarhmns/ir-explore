@@ -6,12 +6,12 @@ Think of a vector as a line pointing from the origin (0,0,...0) in a multi-dimen
 
 #### **Formula for L2 Norm**:
 The formula for the **L2 norm** is:
-\[
+$
 \| \mathbf{v} \|_2 = \sqrt{v_1^2 + v_2^2 + \dots + v_n^2}
-\]
+$
 Where:
-- \( \mathbf{v} \) is the vector, and
-- \( v_1, v_2, \dots, v_n \) are the components (values) of the vector.
+- $ \mathbf{v} $ is the vector, and
+- $v_1, v_2, \dots, v_n $ are the components (values) of the vector.
 
 This formula means you:
 1. Square each component of the vector.
@@ -67,4 +67,3 @@ You mentioned that L2 normalization makes numbers fall into a certain range. Tha
 
 By normalizing vectors, we focus on the **direction** of the vector, not its absolute size, which is crucial for comparing the relevance of documents in information retrieval systems.
 
-Let me know if you'd like further clarification!
